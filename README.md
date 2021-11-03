@@ -1,3 +1,13 @@
+# Cyrpto Channer: :large_blue_diamond:
+![image](https://user-images.githubusercontent.com/22108887/140196533-62a84a4d-5a83-4613-94fa-d019fbae8c05.png)
+
+## Features :large_blue_diamond:
+
+:arrow_right: This website can provide you all the information about cryptocurrencies in the world and the latest new regarding crypto currency.
+:arrow_right: For all the crypto information, I have used Coinraniking API and for latest news I have used Bing news Search API. Both these api's are available at Rapid API.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
