@@ -1,4 +1,4 @@
-# Cyrpto Channer: :large_blue_diamond:
+# Cyrpto Channel: :large_blue_diamond:
 ![image](https://user-images.githubusercontent.com/22108887/140196533-62a84a4d-5a83-4613-94fa-d019fbae8c05.png)
 
 ## Features :large_blue_diamond:
